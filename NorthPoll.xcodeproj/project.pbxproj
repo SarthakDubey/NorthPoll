@@ -38,7 +38,7 @@
 /* Begin PBXFileReference section */
 		18C895841C800A8400284E3F /* NorthPoll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NorthPoll.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18C895881C800A8400284E3F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		18C8958A1C800A8400284E3F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		18C8958A1C800A8400284E3F /* AppDelegate.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = AppDelegate.h; sourceTree = "<group>"; };
 		18C8958B1C800A8400284E3F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		18C8958D1C800A8400284E3F /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		18C8958E1C800A8400284E3F /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
@@ -511,6 +511,7 @@
 				18C895B61C800A8400284E3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18C895B71C800A8400284E3F /* Build configuration list for PBXNativeTarget "NorthPollTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +520,7 @@
 				18C895B91C800A8400284E3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18C895BA1C800A8400284E3F /* Build configuration list for PBXNativeTarget "NorthPollUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +529,7 @@
 				18C895BC1C800A8400284E3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
